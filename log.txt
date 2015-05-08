@@ -1,0 +1,14 @@
+ProcessInputData() is called 
+Start to process input data file: AirPassengers.csv
+erros: could not convert string to float: "time"
+number of rows input: 145
+
+PlotRegressionGraph() is called 
+Regresion finished! 
+Slope: 31.8862068965
+Intercept: -62055.9072797
+Regression model: y = 31.8862068965*x -62055.9072797
+Figure set up 
+Line set up 
+Scatter set up 
+Job done! Log closed! 

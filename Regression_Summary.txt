@@ -1,0 +1,25 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.854
+Model:                            OLS   Adj. R-squared:                  0.853
+Method:                 Least Squares   F-statistic:                     828.2
+Date:                Fri, 08 May 2015   Prob (F-statistic):           4.02e-61
+Time:                        00:10:00   Log-Likelihood:                -754.82
+No. Observations:                 144   AIC:                             1514.
+Df Residuals:                     142   BIC:                             1520.
+Df Model:                           1                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [95.0% Conf. Int.]
+------------------------------------------------------------------------------
+const      -6.206e+04   2166.077    -28.649      0.000     -6.63e+04 -5.78e+04
+x1            31.8862      1.108     28.778      0.000        29.696    34.076
+==============================================================================
+Omnibus:                       24.637   Durbin-Watson:                   0.537
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               33.905
+Skew:                           0.940   Prob(JB):                     4.34e-08
+Kurtosis:                       4.454   Cond. No.                     1.10e+06
+==============================================================================
+
+Warnings:
+[1] The condition number is large, 1.1e+06. This might indicate that there are
+strong multicollinearity or other numerical problems.
